@@ -1,18 +1,25 @@
-## I'm Luis Antonio Martinez Marroquin, a software development engineering.
+## ¡Hola! 👋 Soy [Tu Nombre]
 
-Back-End & Front-End Mobile Developer 
+### Acerca de mí
+- 👨‍💻 Desarrollador Backend apasionado por la creación de soluciones eficientes.
+- 🌐 Especializado en Python y Django para construir aplicaciones robustas.
+- 🛢️ Experiencia en el manejo de bases de datos MySQL para garantizar un rendimiento óptimo.
+- 🎓 Actualmente tengo 21 años y estoy enfocado en aprender y crecer en el mundo del desarrollo de software.
 
-### About me 🦧
+### Mis habilidades
+- 💻 Python | Django | Flask
+- 🛠️ MySQL | SQLite
+- 📚 Conocimientos en [otras tecnologías que utilices]
 
--  I'm 21 years old.
+### Proyectos destacados
+- 🚀 [Proyecto 1: Breve descripción y enlace]
+- 🌐 [Proyecto 2: Breve descripción y enlace]
+- ⚙️ [Proyecto 3: Breve descripción y enlace]
 
-- I really like learning new things and always being up-to-date with technologies.
+### Conéctate conmigo
+- 📧 Correo electrónico: [TuCorreo@gmail.com]
+- 🔗 LinkedIn: [LinkedIn.com/in/TuUsuario]
+- 🐦 Twitter: [@TuUsuario]
+- 🌐 Sitio web: [TuSitioWeb.com]
 
-- Currently studying at Universidad Politécnica de Chiapas
-
-<br>
-
----
-### I have used these technologies and tools:
-
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,git,github,spring,docker,react,figma,flutter,python,nodejs,cpp,dart,docker,express,linux,mysql,postgres,postman,java)](https://skillicons.dev)
+¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones.
